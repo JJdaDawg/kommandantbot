@@ -22,7 +22,8 @@ Kommandant Bot is your loyal Discord officer who:
 
 > This an example image from the api in use (waifu.im)
 
-![waifu example](https://waifu.im/preview/7236/)
+[Click here for waifu example](https://cdn.waifu.im/7236.png)
+
 
 > Kommandant delivers the waifu with *military precision*.
 
@@ -48,8 +49,3 @@ Kommandant Bot is your loyal Discord officer who:
 ---
 
 ## 🚀 Getting Started
-
-```bash
-git clone https://github.com/JJdaDawg/kommandantbot.git
-cd kommandantbot
-npm install

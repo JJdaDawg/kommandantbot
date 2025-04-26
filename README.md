@@ -4,7 +4,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/JJdaDawg/kommandantbot)
 ![License](https://img.shields.io/github/license/JJdaDawg/kommandantbot)
 
-> A Discord bot serving pure waifu propaganda – for the glory of the server 🇩🇪✨
+> A Discord bot serving pure waifu propaganda – for the glory of the Waifumacht✨
 
 ---
 
@@ -14,10 +14,13 @@ Kommandant Bot is your loyal Discord officer who:
 - 💖 Sends waifus on demand with the `/waifu` command
 - 🤖 Will soon offer moderation, utility, and more anime-themed fun
 - 🎭 Adds flavor, style, and a bit of chaos to your Discord server
+- More coming soon!
 
 ---
 
 ## 📸 Preview
+
+> This an example image from the api in use (waifu.im)
 
 ![waifu example](https://waifu.im/preview/7236/)
 
@@ -27,12 +30,9 @@ Kommandant Bot is your loyal Discord officer who:
 
 ## 🧠 Commands
 
-| 🧾 Command | 🎯 Description                      | 💬 Example Usage |
+| 🧾 Command | 🎯 Description                    | 💬 Example Usage |
 |-----------|-------------------------------------|------------------|
 | `/waifu`  | Summons a random waifu image        | `/waifu`         |
-| `/help`   | Lists all available commands *(soon)* | `/help`          |
-| `/info`   | Bot info & support link *(soon)*     | `/info`          |
-| `/ping`   | Checks latency *(soon)*              | `/ping`          |
 
 > More anime-themed features loading… ☁️
 
